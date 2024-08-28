@@ -18,25 +18,22 @@
 **Languages and Tools:** 
 </h2>
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/55251741/126321116-0c530eac-e84e-4cef-8646-29b366dce995.png"></code>
-<code><img height="50" src="https://avatars.githubusercontent.com/u/26978929?s=200&v=4"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://avatars.githubusercontent.com/u/26978929?s=200&v=4"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC-Logo-no-clue.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png"></code> 
-<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code> 
-<code><img height="50" src="https://sendgrid.com/wp-content/themes/sgdotcom/uploads/2020/06/SendGrid_Logo_Stacked_Blue_RGB.png"></code>
-<code><img height="50" src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
+<code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="50" src="https://assets.getpostman.com/common-share/postman-logo-horizontal-320x132.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 
 <br>
 <br/>
