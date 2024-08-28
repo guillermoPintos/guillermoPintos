@@ -20,17 +20,11 @@
   <a href="https://github.com/guillermoPintos/PreAceleracionAlkemy">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillermoPintos&theme=highcontrast&repo=PreAceleracionAlkemy" />
   </a>
-    <a href="https://github.com/yuebaix/nezha">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
+    <a href="https://github.com/guillermoPintos/ONG-Alkemy-AceleracionOT297">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillermoPintos&theme=highcontrast&repo=ONG-Alkemy-AceleracionOT297" />
   </a>
-  <a href="https://github.com/yuebaix/hongjun">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=hongjun" />
-  </a>
-  <a href="https://github.com/yuebaix/luya">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=luya" />
-  </a>
-    <a href="https://github.com/yuebaix/nvwa">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nvwa" />
+  <a href="https://github.com/guillermoPintos/c8-16-t-javareact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillermoPintos&theme=highcontrast&repo=c8-16-t-javareact" />
   </a>
 </div>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
