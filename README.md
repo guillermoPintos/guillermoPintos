@@ -17,8 +17,8 @@
 <br>
 <br/>
 <div>
-  <a href="https://github.com/yuebaix/pangu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=pangu" />
+  <a href="https://github.com/guillermoPintos/PreAceleracionAlkemy">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=guillermoPintos&theme=highcontrast&repo=PreAceleracionAlkemy" />
   </a>
     <a href="https://github.com/yuebaix/nezha">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuebaix&theme=highcontrast&repo=nezha" />
