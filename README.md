@@ -2,6 +2,18 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=00FF00&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hello+there+!;+I'm+Guillermo+;Welcome+to+my+GitHub+profile" alt="Typing SVG" /></a>
 </h1>
 <br>
+
+- 📝 I am a Java backend developer.
+  
+- 🔭 I’m currently working on **AWS, React, Java, Sql, MongoDB**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+
+- 💬 Ask me about **java, spring, AWS, react, mongoDB**
+
+- 📫 Feel free to reach me out **guillermo.a.pintos@gmail.com**
 <h2 align = "center">
 **Languages and Tools:** 
 </h2>
