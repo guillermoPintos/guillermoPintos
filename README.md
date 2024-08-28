@@ -27,7 +27,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/26978929?s=200&v=4"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWC-Logo-no-clue.png"></code>
+<code><img height="50" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"></code>
 <code><img height="50" src="https://avatars.githubusercontent.com/u/2824157?s=200&v=4"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/main/topics/spring/spring.png"></code>
 <code><img height="50" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"></code>
