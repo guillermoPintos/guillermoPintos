@@ -53,7 +53,7 @@
 <a style="margin-left: 10px;" target="_blank" href="https://github.com/guillermoPintos">
     <img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="40" height="40"></a>
 
-      </div>
+ </div>
 
 </p>
 <!--
